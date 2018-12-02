@@ -1,2 +1,3 @@
 # Pyqt5_INTRAM
-development for Intram project.
+GUI for INTAM
+C:\Users\Asoto\AppData\Local\Programs\Python\Python37-32\arso_py
